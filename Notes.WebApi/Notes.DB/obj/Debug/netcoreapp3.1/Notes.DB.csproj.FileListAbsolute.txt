@@ -1,0 +1,12 @@
+P:\Code\notes-tutorial\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.deps.json
+P:\Code\notes-tutorial\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.runtimeconfig.json
+P:\Code\notes-tutorial\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.runtimeconfig.dev.json
+P:\Code\notes-tutorial\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.dll
+P:\Code\notes-tutorial\Notes.WebApi\Notes.DB\bin\Debug\netcoreapp3.1\Notes.DB.pdb
+P:\Code\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.csprojAssemblyReference.cache
+P:\Code\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.AssemblyInfoInputs.cache
+P:\Code\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.AssemblyInfo.cs
+P:\Code\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.csproj.CoreCompileInputs.cache
+P:\Code\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.dll
+P:\Code\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.pdb
+P:\Code\notes-tutorial\Notes.WebApi\Notes.DB\obj\Debug\netcoreapp3.1\Notes.DB.genruntimeconfig.cache
